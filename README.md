@@ -1,19 +1,11 @@
-# How To Use It?
 
-You should use NPM to install it:
-```
-npm i trs-contexts
-```
+# Trs-Contexts
+New NodeJS package for helping to translate your projects contexts easily.
 
-Then you can use it:
-```javascript
-const config = {
-    Silav: "Hello",
-    Were: "Come"
-} 
+Check out the package here: ***https://www.npmjs.com/package/trs-contexts***
 
-const tC = new TrsContexts(config);
-tC.do("Silav");
-```
+## How To Use It?
+Check out `master` branch.
 
-And it returns a **string** containing the translation of the context you've specified.
+## Development
+Check out `master` branch for codes, etc.
