@@ -1,0 +1,14 @@
+{
+  "name": "trs-contexts",
+  "version": "1.0.0",
+  "description": "TrsContexts is a package for helping to translate projects contexts.",
+  "main": "index.js",
+  "keywords": [
+    "Node.js",
+    "JS",
+    "JavaScript",
+    "Translate"
+  ],
+  "author": "Ali Bahaari",
+  "license": "ISC"
+}
