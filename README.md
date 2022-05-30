@@ -1,5 +1,5 @@
 
-# Trs-Contexts
+# trs-contexts
 New NodeJS package for helping to translate your projects contexts easily.
 
 Check out the package here: ***https://www.npmjs.com/package/trs-contexts***
